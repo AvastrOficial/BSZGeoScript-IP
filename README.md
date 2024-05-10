@@ -17,6 +17,7 @@ copuas crearte una cuenta https://ipinfo.io/ al crearla se te generara un token 
 ## que es lo que puedes sacar con esto ?
 como via de peticiones al token unico de ipinfo estos son las variables que puedes usar 
 ![image](https://github.com/AvastrOficial/BSZGeoScript-IP/assets/91764815/22f7420b-955b-4338-b2c7-4e1baa94ac3b)
+<br></br>
 tambien puedes usar la consola del navegador para scraping del ususario al visualizarlo 
 ![image](https://github.com/AvastrOficial/BSZGeoScript-IP/assets/91764815/ada878f9-5b8c-46d5-b0a3-fe98388e9f61)
 
